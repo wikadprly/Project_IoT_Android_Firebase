@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_firebasejob6
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Project_IoT_Android_Firebase
+>>>>>>> 361fa5bcc73d277c85d1be4a52543c49a41152ce
