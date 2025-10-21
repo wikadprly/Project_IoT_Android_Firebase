@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "889662893095",
+    "firebase_url": "https://iot-bab-6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-bab-6",
+    "storage_bucket": "iot-bab-6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889662893095:android:e9741061f8c822504e3202",
+        "android_client_info": {
+          "package_name": "com.example.firebasenodemcuandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0LWMh-pESPkPp3ZSbTeNadOVHK9qlzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
